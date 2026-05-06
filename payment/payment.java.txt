@@ -1,0 +1,5 @@
+ class payment{
+
+System.out.Println("Payment made successfully");
+
+}
