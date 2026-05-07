@@ -1,0 +1,8 @@
+public class AccountPage {
+    public static void main(String[] args) {
+        String user = "Vineeth";
+        int orders = 3;
+        double wallet = 2500.0;
+        System.out.println(user + " | Orders: " + orders + " | Wallet: ₹" + wallet);
+    }
+}
